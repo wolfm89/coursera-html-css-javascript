@@ -1,0 +1,34 @@
+/********** Base styles **********/
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Arial', sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  border: 1px solid black;
+  color: black;
+}
+
+#chicken {
+  background-color: #ffb3b3;
+}
+
+#beef {
+  background-color: #ff3333;
+  color: white;
+}
+
+#sushi {
+  background-color: #ffd9b3;
+}
+
+.section {
+  background-color: #bfbfbf;
+}
